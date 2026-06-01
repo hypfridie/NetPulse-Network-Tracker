@@ -76,8 +76,7 @@ NetPulse is a comprehensive mobile and WiFi data usage tracker built for Android
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/NetPulse.git
-   cd NetPulse
+   git clone https://github.com/hypfridie/NetPulse-Network-Tracker.git
    ```
 
 2. **Open in Android Studio**
@@ -100,13 +99,13 @@ NetPulse is a comprehensive mobile and WiFi data usage tracker built for Android
 
 <div align="center">
 
-| Dashboard | App Breakdown | Filter Controls |
+| Dashboard | App Usage | Firewall |
 |-----------|---------------|-----------------|
-| ![Dashboard](screenshots/dashboard.png) | ![App Breakdown](screenshots/app_breakdown.png) | ![Filters](screenshots/filters.png) |
+| ![Dashboard](screenshots/dashboard.png) | ![App Breakdown](screenshots/app-detail.png) | ![Filters](screenshots/firewall.png) |
 
-| Usage Charts | Data Alerts | Settings |
-|--------------|-------------|----------|
-| ![Charts](screenshots/charts.png) | ![Alerts](screenshots/alerts.png) | ![Settings](screenshots/settings.png) |
+| Settings |
+|----------|
+| ![Settings](screenshots/settings.png) |
 
 </div>
 
@@ -174,14 +173,6 @@ NetPulse uses a minimal set of permissions, only what's strictly necessary:
 ## 🤝 Contributing
 
 Contributions are welcome! Whether it's a bug fix, a new feature, or a UI improvement — all pull requests are appreciated.
-
-### How to Contribute
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/your-feature-name`)
-3. Commit your changes (`git commit -m 'Add: your feature description'`)
-4. Push to your branch (`git push origin feature/your-feature-name`)
-5. Open a Pull Request
 
 ### Areas for Contribution
 - 🐛 Bug reports and fixes
